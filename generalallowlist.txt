@@ -2,3 +2,4 @@
 *.pub.dev
 *.ddegjustonline.ac.in
 *.google.com
+*.bsi.ir
