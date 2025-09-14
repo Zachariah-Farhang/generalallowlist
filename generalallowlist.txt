@@ -3,3 +3,5 @@
 *.ddegjustonline.ac.in
 *.google.com
 *.bsi.ir
+*.duolingo.com
+*.intuit.com
