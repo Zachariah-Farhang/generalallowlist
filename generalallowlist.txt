@@ -5,3 +5,4 @@
 *.bsi.ir
 *.duolingo.com
 *.intuit.com
+*.cursor.com
