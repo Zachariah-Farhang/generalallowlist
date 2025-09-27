@@ -6,3 +6,4 @@
 *.duolingo.com
 *.intuit.com
 *.cursor.com
+*.myintealth.app
