@@ -8,3 +8,5 @@
 *.cursor.com
 *.myintealth.app
 *.freepik.com
+*.freepik.*
+*freepik*
