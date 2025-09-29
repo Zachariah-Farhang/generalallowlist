@@ -7,3 +7,4 @@
 *.intuit.com
 *.cursor.com
 *.myintealth.app
+*.freepik.com
