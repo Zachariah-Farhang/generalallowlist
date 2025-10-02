@@ -18,3 +18,4 @@ dsacdnpk.net.edgesuite.net
 pbs.twimg.com
 video.twimg.com
 *.twimg.com
+*.bidfax.info
