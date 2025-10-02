@@ -15,3 +15,4 @@ www.googletagmanager.com
 cdn-ukwest.onetrust.com
 dsacdnpk.net.edgesuite.net
 *.x.com
+*.twimg.com
