@@ -13,3 +13,4 @@
 static.cdnpk.net
 www.googletagmanager.com
 cdn-ukwest.onetrust.com
+dsacdnpk.net.edgesuite.net
