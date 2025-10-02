@@ -10,3 +10,6 @@
 *.freepik.com
 *.freepik.*
 *freepik*
+static.cdnpk.net
+www.googletagmanager.com
+cdn-ukwest.onetrust.com
