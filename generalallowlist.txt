@@ -19,3 +19,4 @@ pbs.twimg.com
 video.twimg.com
 *.twimg.com
 *.bidfax.info
+*.onetrust.com
