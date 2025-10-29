@@ -20,3 +20,5 @@ video.twimg.com
 *.twimg.com
 *.bidfax.info
 *.onetrust.com
+*.apple.com
+*.apple.com*
