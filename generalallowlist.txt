@@ -22,7 +22,7 @@ video.twimg.com
 *.onetrust.com
 *.apple.com
 *.apple.com*
-*.microsoftonline.*
-*.outlook.*
 *.microsoftonline.com
 *.outlook.com
+*.microsoftonline.*
+*.outlook.*
