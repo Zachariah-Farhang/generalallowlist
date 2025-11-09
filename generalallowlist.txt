@@ -26,3 +26,9 @@ video.twimg.com
 *.outlook.com
 *.microsoftonline.*
 *.outlook.*
+*.live.com
+*.microsoftonline.com
+login.microsoftonline.com
+ak.privatelink.msidentity.com
+*.privatelink.msidentity.com
+*.msidentity.com
