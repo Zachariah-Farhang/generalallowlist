@@ -32,3 +32,4 @@ login.microsoftonline.com
 ak.privatelink.msidentity.com
 *.privatelink.msidentity.com
 *.msidentity.com
+*.unsplash.com
