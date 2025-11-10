@@ -26,6 +26,7 @@ video.twimg.com
 *.outlook.com
 *.microsoftonline.*
 *.outlook.*
+*outlook*
 *.live.com
 *.microsoftonline.com
 login.microsoftonline.com
