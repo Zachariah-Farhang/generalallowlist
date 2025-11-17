@@ -35,3 +35,6 @@ ak.privatelink.msidentity.com
 *.msidentity.com
 *.unsplash.com
 *.w3schools.com
+
+*.debian.org
+*.winehq.org
