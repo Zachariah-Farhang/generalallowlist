@@ -35,10 +35,8 @@ ak.privatelink.msidentity.com
 *.msidentity.com
 *.unsplash.com
 *.w3schools.com
-
 *.debian.org
 *.winehq.org
-
 copilot.microsoft.com
 copilot-copilot-msft-com.trafficmanager.net
 copilot.microsoft.com.edgekey.net
@@ -47,3 +45,8 @@ edge.microsoft.com
 msedge.net
 bing.com
 edgeservices.bing.com
+a308.dscd.akamai.net
+software.download.prss.microsoft.com
+software.download.prss.microsoft.com.delivery.microsoft.com
+sundry-f-net.trafficmanager.net
+download.prss.microsoft.com.akamaized.net
