@@ -38,3 +38,12 @@ ak.privatelink.msidentity.com
 
 *.debian.org
 *.winehq.org
+
+copilot.microsoft.com
+copilot-copilot-msft-com.trafficmanager.net
+copilot.microsoft.com.edgekey.net
+edge-microsoft-com.ax-0002.ax-msedge.net
+edge.microsoft.com
+msedge.net
+bing.com
+edgeservices.bing.com
