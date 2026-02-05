@@ -247,3 +247,5 @@ reports.crashlytics.com
 tracking.dpd.de
 wa.me
 www.wa.me
+*.solarwinds.com
+*.eikaiwa.dmm.com
