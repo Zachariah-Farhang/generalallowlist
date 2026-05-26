@@ -249,3 +249,13 @@ wa.me
 www.wa.me
 *.solarwinds.com
 *.eikaiwa.dmm.com
+
+# magnific.com
+static.hotjar.com
+connect.facebook.net
+static.ads-twitter.com
+analytics.tiktok.com
+www.redditstatic.com
+snap.licdn.com
+analytics.google.com
+*.doubleclick.net
