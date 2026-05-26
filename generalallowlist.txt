@@ -259,3 +259,4 @@ www.redditstatic.com
 snap.licdn.com
 analytics.google.com
 *.doubleclick.net
+go.microsoft.com
